@@ -14,7 +14,13 @@ Data is obtained with a REST API URL.
 
 # Output samples:
 <p align="center">
+  <img src="https://github.com/jesmuli/101214794_comp3123_a2/blob/master/screenshots/ss-3.jpg" width="350" title="ss3">
+</p>
+<p align="center">
   <img src="https://github.com/jesmuli/101214794_comp3123_a2/blob/master/screenshots/ss-1.png" width="350" title="ss1">
+</p>
+<p align="center">
+  <img src="https://github.com/jesmuli/101214794_comp3123_a2/blob/master/screenshots/ss-2.jpg" width="350" title="ss2">
 </p>
 
 # Commands used:
