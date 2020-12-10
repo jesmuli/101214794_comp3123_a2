@@ -14,9 +14,9 @@ Data is obtained with a REST API URL.
 
 # Output samples:
 <p align="center">
-  <img src="https://github.com/jesmuli/101214794_comp3123_a2/blob/master/screenshots/ss-5.jpg" width="300" title="ss5">
-  <img src="https://github.com/jesmuli/101214794_comp3123_a2/blob/master/screenshots/ss-4.jpg" width="300" title="ss4">
-  <img src="https://github.com/jesmuli/101214794_comp3123_a2/blob/master/screenshots/ss-1.png" width="300" title="ss1">
+  <img src="https://github.com/jesmuli/101214794_comp3123_a2/blob/master/screenshots/ss-5.jpg" width="350" title="ss5">
+  <img src="https://github.com/jesmuli/101214794_comp3123_a2/blob/master/screenshots/ss-4.jpg" width="350" title="ss4">
+  <img src="https://github.com/jesmuli/101214794_comp3123_a2/blob/master/screenshots/ss-1.png" width="350" title="ss1">
   <img src="https://github.com/jesmuli/101214794_comp3123_a2/blob/master/screenshots/ss-3.jpg" width="350" title="ss3">
   <img src="https://github.com/jesmuli/101214794_comp3123_a2/blob/master/screenshots/ss-2.jpg" width="350" title="ss2">
 </p>
